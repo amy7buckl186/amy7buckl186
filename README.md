@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @amy7buckl186
+- 👀 I’m interested in Aspiring full-stack developer.
+- 🌱 I’m currently learning Java and JavaScript.
+- 💞️ Committed to creating seamless, user-centric web experiences.
